@@ -86,5 +86,5 @@
 
 ## 在文章中插入自定义图片
 
-[自定义图片]("C:/Users/17542/Desktop/屏幕截图.jpg.png")
+![自定义图片](C:/Users/17542/Desktop/屏幕截图.jpg.png)
 
