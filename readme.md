@@ -84,3 +84,7 @@
 [哔哩哔哩](https://www.bilibili.com "跳转到B站")</br>
 [百度](https://www.baidu.com "跳转到百度")</br>
 
+## 在文章中插入自定义图片
+
+[自定义图片]("C:/Users/17542/Desktop/屏幕截图.jpg.png")
+
