@@ -84,7 +84,7 @@
 [哔哩哔哩](https://www.bilibili.com "跳转到B站")</br>
 [百度](https://www.baidu.com "跳转到百度")</br>
 
-## 在文章中插入自定义图片
+## 在文章中插入自定义图片 , 如果要在Github Readme 中显示必须要是网络图片
 
-[自定义图片](C:/Users/17542/Desktop/屏幕截图.jpg.png)
+![自定义图片](C:/Users/17542/Desktop/屏幕截图.jpg)
 
