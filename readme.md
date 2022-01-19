@@ -40,8 +40,38 @@
 
 3. 有序列表三
 
-# Markdown 区块引用效果
+## Markdown 区块引用效果
 > 第一层引用
-> > 第二层引用
-> > > 第三次引用
-> > > > 第四层引用
+>> 第二层引用
+>>> 第三次引用
+>>>> 第四层引用
+
+## Markdown 插入代码块
+
+```c
+	#include <stdio.h>
+
+	int main(void)
+	{
+		printf("C output..\n");
+		return 0;
+	}
+
+```
+
+```cpp
+	#include<iostream>
+	using namespace std;
+
+	int main(void)
+	{
+		cout << "C++ output" << endl;
+	}
+```
+
+```bash
+	sudo apt-get install pip3
+	echo "数据回显"
+	netstate -apn
+```
+
